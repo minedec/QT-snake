@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fileexplorer.png</file>
+        <file>floppy15.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="start">images/fileexplorer.png</file>
+        <file alias="over">images/floppy15.png</file>
+        <file alias="gameexit">images/gameexit.png</file>
+        <file alias="gamestart">images/gamestart.png</file>
+        <file alias="snake">images/snake.png</file>
+        <file alias="bg">images/TKP6ZBQV$1AMF9V~HUUA901.png</file>
+        <file alias="love">images/love.png</file>
+        <file alias="star">images/star_72px_1097433_easyicon.net.png</file>
+        <file alias="green">images/green_256px_1071301_easyicon.net.png</file>
+        <file alias="red">images/red_128px_1071528_easyicon.net.png</file>
+    </qresource>
+</RCC>
